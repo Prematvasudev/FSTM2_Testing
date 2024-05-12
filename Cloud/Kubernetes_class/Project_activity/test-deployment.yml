@@ -14,7 +14,7 @@ spec:
   spec:
     containers:
       - name: node-app
-        image: rohinirao/simpleWeb
+        image: Prema/simpleWeb
         ports:
           - containerPort: 8080
         resources:
